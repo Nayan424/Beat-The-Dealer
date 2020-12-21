@@ -2,10 +2,10 @@ var r1=Math.ceil((Math.random())*6);
 var r2=Math.ceil((Math.random())*6);
 
 if(r1>r2){
-    document.getElementById('result').innerHTML = 'Player 1 Wins!';
+    document.getElementById('result').innerHTML = 'Player 1 Wins! 🚩';
 }
 else if(r2>r1){
-    document.getElementById('result').innerHTML = 'Player 2 Wins!';
+    document.getElementById('result').innerHTML = 'Player 2 Wins! 🚩';
 }
 else{
     document.getElementById('result').innerHTML = 'Draw!';
