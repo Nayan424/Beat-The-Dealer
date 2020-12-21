@@ -10,14 +10,6 @@ body{
     direction: flex;
     flex-direction: column;
 }
-h3{
-    text-align: center;
-    font-size: 200%;
-    color: #e7fc28;
-    margin: 2% auto;
-    font-family: cursive;
-    clear: both;
-}
 .dice1{
     display: inline-block;
     color:#aef5b2;
